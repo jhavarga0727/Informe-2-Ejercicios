@@ -34,6 +34,7 @@ public class Ejercicio9excepciones {
 
         }
          scanner.close();
+         scanner2.close();
 
     }
 
